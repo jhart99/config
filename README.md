@@ -15,3 +15,4 @@ xrdb .Xresources
 If the files already exist, you need to move them or remove them first.
 
 Based off of https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/
+[![Analytics](https://ga-beacon.appspot.com/UA-110461825-1/config)](https://github.com/jhart99/config)
